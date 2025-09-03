@@ -13,6 +13,11 @@ export default {
         secondary: '#4A4A4A', // Cinza escuro para detalhes e textos secundários
         accent: '#E0E0E0', // Cinza claro para bordas, linhas e fundos sutis
       },
+      fontFamily: {
+        primary: ['Inter', 'sans-serif'],
+        secondary: ['Roboto', 'sans-serif'],
+        code: ['Fira Code', 'monospace'],
+      },
     },
   },
   plugins: [],
